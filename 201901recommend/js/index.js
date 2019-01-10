@@ -52,5 +52,11 @@ $(document).ready(function() {
 	}
 
 
+	var tt09 = new Date("2019/01/21 23:00");
+	if (now.getTime() > tt09.getTime()) {
+		$('#f_1').text("詳細を見る")
+	}
+
+
 
 });
