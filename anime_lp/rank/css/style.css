@@ -40,7 +40,7 @@ main .rank-sub { width: 750px; }
 main .rank-sub li { padding-bottom: 32px; margin-bottom: 32px; border-bottom: solid 1px #606060; }
 main .rank-sub li a { display: block; }
 main .rank-sub li a dl { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; }
-main .rank-sub li a dl dt { min-width: 226px; min-width: 226px; margin-right: 20px; }
+main .rank-sub li a dl dt { min-width: 226px; max-width: 226px; margin-right: 20px; }
 main .rank-sub li a dl dt img { display: block; }
 main .rank-sub li a dl dd h2 { font-size: 26px; }
 main .rank-sub li a dl dd h2 span { color: #51c300; }
