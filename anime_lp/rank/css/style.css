@@ -30,7 +30,7 @@ main .rank-main { width: 750px; }
 main .rank-main li { padding-bottom: 32px; margin-bottom: 32px; border-bottom: solid 1px #606060; }
 main .rank-main li a { display: block; }
 main .rank-main li a dl { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; margin-bottom: 20px; }
-main .rank-main li a dl dt { min-width: 356px; margin-right: 20px; }
+main .rank-main li a dl dt { min-width: 356px; max-width: 356px; margin-right: 20px; }
 main .rank-main li a dl dd h2 { font-size: 28px; font-weight: 600; margin-bottom: 5px; }
 main .rank-main li a dl dd h2 span { color: #51c300; }
 main .rank-main li a dl dd p { font-size: 23px; color: #8c8c8c; }
@@ -40,7 +40,7 @@ main .rank-sub { width: 750px; }
 main .rank-sub li { padding-bottom: 32px; margin-bottom: 32px; border-bottom: solid 1px #606060; }
 main .rank-sub li a { display: block; }
 main .rank-sub li a dl { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; }
-main .rank-sub li a dl dt { min-width: 226px; margin-right: 20px; }
+main .rank-sub li a dl dt { min-width: 226px; min-width: 226px; margin-right: 20px; }
 main .rank-sub li a dl dt img { display: block; }
 main .rank-sub li a dl dd h2 { font-size: 26px; }
 main .rank-sub li a dl dd h2 span { color: #51c300; }
@@ -78,7 +78,7 @@ footer nav ul li:last-child:after { content: ''; }
   main .rank-main { width: 100%; }
   main .rank-main li { padding-bottom: 4%; margin-bottom: 4%; }
   main .rank-main li a dl { margin-bottom: 3%; }
-  main .rank-main li a dl dt { min-width: 40%; margin-right: 3%; }
+  main .rank-main li a dl dt { min-width: 53%; max-width: 53%; margin-right: 3%; }
   main .rank-main li a dl dt img { display: block; }
   main .rank-main li a dl dd h2 { font-size: calc(47vw/12); margin-bottom: 1%; }
   main .rank-main li a dl dd p { font-size: calc(40vw/12); }
@@ -86,7 +86,7 @@ footer nav ul li:last-child:after { content: ''; }
   main .rank-main li a button { border-radius: 3px; font-size: calc(40vw/12); padding: 1.5% 0 1.5% 0; }
   main .rank-sub { width: 100%; }
   main .rank-sub li { padding-bottom: 4%; margin-bottom: 4%; }
-  main .rank-sub li a dl dt { min-width: 20%; max-width: 33%; margin-right: 3%; }
+  main .rank-sub li a dl dt { min-width: 33%; max-width: 33%; margin-right: 3%; }
   main .rank-sub li a dl dd h2 { font-size: calc(47vw/12); }
   main .rank-sub li a dl dd p { font-size: calc(40vw/12); }
   main .link-animetop a { width: 88%; font-size: calc(47vw/12); border: solid 1px #50c300; border-radius: 3px; padding: 3% 0 3% 0; }

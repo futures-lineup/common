@@ -104,6 +104,7 @@ main {
 					margin-bottom: 20px;
 					dt {
 						min-width: 356px;
+						max-width: 356px;
 						margin-right: 20px;
 					}
 					dd {
@@ -152,6 +153,7 @@ main {
 					display: flex;
 					align-items: center;
 					dt {
+						min-width: 226px;
 						min-width: 226px;
 						margin-right: 20px;
 						img {
@@ -324,7 +326,8 @@ main {
 				dl {
 					margin-bottom: 3%;
 					dt {
-						min-width: 40%;
+						min-width: 53%;
+						max-width: 53%;
 						margin-right: 3%;
 						img {
 							display: block;
@@ -361,7 +364,7 @@ main {
 			a {
 				dl {
 					dt {
-						min-width: 20%;
+						min-width: 33%;
 						max-width: 33%;
 						margin-right: 3%;
 					}
