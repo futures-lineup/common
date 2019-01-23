@@ -2301,7 +2301,7 @@ img  { width: 100%;}
 		content: '';
 		position: absolute;
 		top: 45%;
-		left: 56.2%;
+		left: 46.4%;
 		background: url(https://goo.gl/oku7WK) 0 0 no-repeat;
 		background-size: 60px 60px;
 		width: 60px;
@@ -2310,7 +2310,7 @@ img  { width: 100%;}
 }
 .cast_inner_box_sec {
 	&:after {
-		left: 37.4%;
+		left: 46.4%;
 	}
 }
 
@@ -2323,7 +2323,7 @@ img  { width: 100%;}
 		content: '東京女子';
 		position: absolute;
 		top: 27px;
-		left: 15%;
+		left: 20%;
 		font-weight: bold;
 		font-size: 20px;
 		letter-spacing: 1px;
@@ -2350,7 +2350,7 @@ img  { width: 100%;}
 
 	&:after {
 		content: '関西男子';
-		left: 63%;
+		left: 70%;
 	}
 }
 // PC
@@ -2358,7 +2358,7 @@ img  { width: 100%;}
 	float: left;
 	position: relative;
 	background: #fffeff;
-	width: 58%;
+	width: 48.5%;
 	padding: 4% 2% 2%;
 	margin: 0;
 	box-sizing: border-box;
@@ -2378,16 +2378,16 @@ img  { width: 100%;}
 	float: right;
 	position: relative;
 	background: #fffeff;
-	width: 39%;
+	width: 48.5%;
 	padding: 4% 2% 2% 2%;
 	margin: 0;
 	box-sizing: border-box;
 	li {
 		overflow: hidden;
 		float: left;
-		width: 48.3%;
+		width: 31.7%;
 		// max-width: 134px;
-		margin: 0 0 0 3%;
+		margin: 0 0 0 2%;
 
 		&:first-child {
 			margin-left: 0;
@@ -2395,14 +2395,14 @@ img  { width: 100%;}
 	}
 }
 .cast_women_item_sec {
-	width: 39%;
+	width: 48.5%;
 	li {
-		width: 48.3%;
-		margin: 0 0 0 3%;
+		width: 31.4%;
+		margin: 0 0 0 2%;
 	}
 }
 .cast_mens_item_sec {
-	width: 58%;
+	width: 48.5%;
 	padding: 4% 2% 2% 2%;
 
 	li {
