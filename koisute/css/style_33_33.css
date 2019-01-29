@@ -455,16 +455,8 @@ img { width: 100%; }
   .cast_area span { padding: 4px 12px 0; font-size: 16px; }
   .cast_inner { margin: 1% auto 0; width: 90%; }
   .cast_inner_box { position: relative; }
-  .cast_inner_box:after { content: ''; top: 45%; left: 56.8%; background-size: 50px 50px; width: 50px; height: 50px; }
-  .cast_inner_box_sec:after { left: 37.5%; }
-  .cast_women_item { width: 58%; padding: 3% 2% 2% 2%; margin: 0; }
-  .cast_women_item li { width: 31.4%; margin: 0 0 0 2%; }
-  .cast_mens_item { width: 39%; padding: 3% 2% 2% 2%; margin: 0; }
-  .cast_mens_item li { width: 48.3%; margin: 0 0 0 2%; }
-  .cast_women_item_sec { width: 39%; }
-  .cast_women_item_sec li { width: 48.3%; margin: 0 0 0 3%; }
-  .cast_mens_item_sec { width: 58%; padding: 3% 2% 2.3% 2%; }
-  .cast_mens_item_sec li { width: 31.3%; margin: 0 0 0 3%; }
+  .cast_inner_box:after { content: ''; top: 45%; left: 46.5%; background-size: 50px 50px; width: 50px; height: 50px; }
+  .cast_inner_box_sec:after { left: 46.5%; }
   .cast_inner_area { overflow: hidden; padding: 0 0 0 0; text-align: center; color: #626262; }
   .cast_inner_area figure { margin: 0; line-height: 0; }
   .cast_inner_area figure img { width: 100%; }
