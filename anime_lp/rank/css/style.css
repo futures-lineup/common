@@ -32,10 +32,10 @@ main .rank-main li a { display: block; }
 main .rank-main li a dl { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; margin-bottom: 20px; }
 main .rank-main li a dl dt { min-width: 356px; max-width: 356px; margin-right: 20px; }
 main .rank-main li a dl dd h2 { font-size: 28px; font-weight: 600; margin-bottom: 5px; }
-main .rank-main li a dl dd h2 span { color: #51c300; }
+main .rank-main li a dl dd h2 span { color: #33aa22; }
 main .rank-main li a dl dd p { font-size: 23px; color: #8c8c8c; }
 main .rank-main li a p { font-size: 23px; color: #8c8c8c; line-height: 1.5em; margin-bottom: 20px; }
-main .rank-main li a button { width: 100%; border-radius: 5px; background-color: #51c300; border: none; font-size: 25px; font-weight: 600; padding: 11px 0 11px 0; cursor: pointer; }
+main .rank-main li a button { width: 100%; border-radius: 5px; background-color: #33aa22; border: none; font-size: 25px; font-weight: 600; padding: 11px 0 11px 0; cursor: pointer; }
 main .rank-sub { width: 750px; }
 main .rank-sub li { padding-bottom: 32px; margin-bottom: 32px; border-bottom: solid 1px #606060; }
 main .rank-sub li a { display: block; }
@@ -43,7 +43,7 @@ main .rank-sub li a dl { display: -webkit-box; display: -ms-flexbox; display: fl
 main .rank-sub li a dl dt { min-width: 226px; max-width: 226px; margin-right: 20px; }
 main .rank-sub li a dl dt img { display: block; }
 main .rank-sub li a dl dd h2 { font-size: 26px; }
-main .rank-sub li a dl dd h2 span { color: #51c300; }
+main .rank-sub li a dl dd h2 span { color: #33aa22; }
 main .rank-sub li a dl dd p { font-size: 23px; color: #8c8c8c; }
 main .rank-sub li:last-child { margin-bottom: 0; }
 main .link-animetop a { display: block; width: 650px; margin: 0 auto; text-align: center; font-size: 28px; font-weight: 600; color: #50c300; border: solid 2px #50c300; border-radius: 6px; padding: 20px 0 20px 0; }
@@ -53,7 +53,7 @@ main .video-promos .wrap { width: 680px; margin: 0 auto; }
 main .video-promos .wrap h2 { margin-bottom: 15px; }
 main .video-promos .wrap h2 img { max-width: 336px; }
 main .video-promos .wrap p { font-size: 32px; font-weight: 600; margin-bottom: 30px; }
-main .video-promos .wrap p a { display: block; color: #51c300; font-size: 28px; font-weight: bold; padding: 25px 0 25px 0; text-align: center; border: solid 2px #51c300; border-radius: 8px; }
+main .video-promos .wrap p a { display: block; color: #33aa22; font-size: 28px; font-weight: bold; padding: 25px 0 25px 0; text-align: center; border: solid 2px #33aa22; border-radius: 8px; }
 main .video-promos .wrap p a:hover { background-color: #FFF; opacity: 1; }
 main .video-promos .wrap p:last-child { margin-bottom: 0; }
 
@@ -95,7 +95,7 @@ footer nav ul li:last-child:after { content: ''; }
   main .video-promos .wrap h2 { line-height: 1; margin-bottom: 2%; }
   main .video-promos .wrap h2 img { max-width: 50%; }
   main .video-promos .wrap p { font-size: calc(47vw/12); margin-bottom: 3%; }
-  main .video-promos .wrap p a { font-size: calc(47vw/12); padding: 3% 0 3% 0; border: solid 1px #51c300; border-radius: 4px; }
+  main .video-promos .wrap p a { font-size: calc(47vw/12); padding: 3% 0 3% 0; border: solid 1px #33aa22; border-radius: 4px; }
   footer { width: 93%; }
   footer small { font-size: calc(30vw/12); margin-bottom: 4%; }
   footer nav { margin-bottom: 4%; }
