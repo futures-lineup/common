@@ -50,7 +50,7 @@ main .other-link a { display: block; color: #FFF; background-color: #1a1a1a; bor
 main .other-link a p { padding: 25px 33px 25px 24px; font-size: 28px; text-align: left; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; }
 main .other-link a p img { max-width: 16px; }
 main .other-link a p span { line-height: 1.4em; }
-main .other-link a p span b { font-weight: bold; color: #51c300; font-size: 26px; margin-bottom: 8px; }
+main .other-link a p span b { font-weight: bold; color: #33aa22; font-size: 26px; margin-bottom: 8px; }
 
 footer { width: 680px; margin: 0 auto; padding-bottom: 32px; }
 footer p small { font-size: 16px; color: #919191; margin-bottom: 32px; }
