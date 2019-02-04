@@ -46,7 +46,7 @@ main .rank-sub li a dl dd h2 { font-size: 26px; }
 main .rank-sub li a dl dd h2 span { color: #33aa22; }
 main .rank-sub li a dl dd p { font-size: 23px; color: #8c8c8c; }
 main .rank-sub li:last-child { margin-bottom: 0; }
-main .link-animetop a { display: block; width: 650px; margin: 0 auto; text-align: center; font-size: 28px; font-weight: 600; color: #50c300; border: solid 2px #50c300; border-radius: 6px; padding: 20px 0 20px 0; }
+main .link-animetop a { display: block; width: 650px; margin: 0 auto; text-align: center; font-size: 28px; font-weight: 600; color: #33aa22; border: solid 2px #33aa22; border-radius: 6px; padding: 20px 0 20px 0; }
 main .link-animetop a:hover { background-color: #FFF; opacity: 1; }
 main .video-promos { width: 750px; background: url(https://bit.ly/2PW5lLG) 0 0 no-repeat; background-size: cover; padding: 44px 0 44px 0; margin: 0 auto 0 auto; }
 main .video-promos .wrap { width: 680px; margin: 0 auto; }
@@ -89,7 +89,7 @@ footer nav ul li:last-child:after { content: ''; }
   main .rank-sub li a dl dt { min-width: 33%; max-width: 33%; margin-right: 3%; }
   main .rank-sub li a dl dd h2 { font-size: calc(47vw/12); }
   main .rank-sub li a dl dd p { font-size: calc(40vw/12); }
-  main .link-animetop a { width: 88%; font-size: calc(47vw/12); border: solid 1px #50c300; border-radius: 3px; padding: 3% 0 3% 0; }
+  main .link-animetop a { width: 88%; font-size: calc(47vw/12); border: solid 1px #33aa22; border-radius: 3px; padding: 3% 0 3% 0; }
   main .video-promos { width: 100%; padding: 6% 0 6% 0; margin: 0 0 3% 0; }
   main .video-promos .wrap { width: 93%; }
   main .video-promos .wrap h2 { line-height: 1; margin-bottom: 2%; }
