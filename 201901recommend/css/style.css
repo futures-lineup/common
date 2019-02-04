@@ -25,7 +25,7 @@ main { width: 680px; margin: 0 auto 32px auto; }
 main section { border-bottom: solid 1px #606060; padding-bottom: 52px; margin-bottom: 52px; }
 main section:nth-last-of-type(2) { border-bottom: none; padding-bottom: 0; }
 main section:nth-last-of-type(1) { margin-bottom: 0; }
-main h2 { font-size: 38px; font-weight: 600; border-left: solid 8px #50c300; margin-bottom: 50px; padding-left: 18px; }
+main h2 { font-size: 38px; font-weight: 600; border-left: solid 8px #33aa22; margin-bottom: 50px; padding-left: 18px; }
 main .contents-main li { margin-bottom: 46px; }
 main .contents-main li a { display: block; color: #FFF; background-color: #1a1a1a; border-radius: 8px; }
 main .contents-main li a .visual { min-height: 0%; }
@@ -33,7 +33,7 @@ main .contents-main li a img { display: block; border-radius: 8px 8px 0 0; min-w
 main .contents-main li a .detail { padding: 0 20px 28px 20px; }
 main .contents-main li a .detail .time { font-size: 28px; color: #ababab; margin-bottom: 2px; }
 main .contents-main li a .detail h3 { font-size: 32px; font-weight: 600; margin-bottom: 21px; }
-main .contents-main li a .detail .link-button { background-color: #50c300; border-radius: 6px; font-size: 28px; font-weight: 600; padding: 22px 0 22px 0; text-align: center; }
+main .contents-main li a .detail .link-button { background-color: #33aa22; border-radius: 6px; font-size: 28px; font-weight: 600; padding: 22px 0 22px 0; text-align: center; }
 main .contents-sub { display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; }
 main .contents-sub li { display: -webkit-box; display: -ms-flexbox; display: flex; width: 324px; margin-bottom: 37px; }
 main .contents-sub li a { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; width: 324px; color: #FFF; background-color: #1a1a1a; border-radius: 8px; }
@@ -43,7 +43,7 @@ main .contents-sub li a .detail { padding: 0 20px 0px 20px; }
 main .contents-sub li a .detail .time { font-size: 28px; color: #ababab; margin-bottom: 3px; }
 main .contents-sub li a .detail h3 { font-size: 28px; font-weight: 600; margin-bottom: 15px; }
 main .contents-sub li a .link-button { margin-top: auto; padding-bottom: 24px; }
-main .contents-sub li a .link-button p { width: 284px; margin: 0 auto; background-color: #50c300; border-radius: 6px; font-size: 26px; font-weight: 600; padding: 16px 0 16px 0; text-align: center; }
+main .contents-sub li a .link-button p { width: 284px; margin: 0 auto; background-color: #33aa22; border-radius: 6px; font-size: 26px; font-weight: 600; padding: 16px 0 16px 0; text-align: center; }
 main .contents-sub li:nth-last-of-type(1), main .contents-sub li:nth-last-of-type(2) { margin-bottom: 0; }
 main .other-link { width: 680px; margin: 0 auto 64px auto; }
 main .other-link a { display: block; color: #FFF; background-color: #1a1a1a; border-radius: 8px; }
@@ -67,7 +67,7 @@ footer nav ul li:last-child:after { content: ''; }
   header div img { display: block; width: 75%; }
   main { width: 93%; margin: 0 auto 4% auto; }
   main section { padding-bottom: 7%; margin-bottom: 7%; }
-  main h2 { font-size: calc(60vw/12); border-left: solid 3px #50c300; margin-bottom: 6.5%; padding-left: 3%; }
+  main h2 { font-size: calc(60vw/12); border-left: solid 3px #33aa22; margin-bottom: 6.5%; padding-left: 3%; }
   main .contents-main li { margin-bottom: 6%; }
   main .contents-main li a { border-radius: 4px; }
   main .contents-main li a img { border-radius: 4px 4px 0 0; margin-bottom: 3.5%; }
