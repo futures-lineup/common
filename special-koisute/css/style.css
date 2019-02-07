@@ -73,8 +73,8 @@ header .header_heading { max-width: 746px; padding: 0; margin: 0 auto; }
 
 @media screen and (max-width: 768px) { header .header_logo { padding: 2.5% 0 2.5% 4%; }
   header .header_logo span { width: 26%; }
-  header .header_area { padding: 9.7% 0 9.7%; margin: 0 auto 0; }
-  header .header_heading { width: 69%; }
+  header .header_area { padding: 3% 0 3% 0; margin: 0 auto 0; }
+  header .header_heading { width: 98%; }
   .content_wrap { padding: 4.5% 0 3.8%; }
   .content_wrap .content_inner { padding: 0 5%; }
   .content_wrap .title_area { margin-bottom: 9%; }
@@ -92,7 +92,7 @@ header .header_heading { max-width: 746px; padding: 0; margin: 0 auto; }
   .content_wrap .thumb { margin: 2.5% 0 0; }
   .content_wrap .thumb li { margin: 0 0 0 2%; }
   .content_wrap .thumb li:first-child { margin: 0; }
-  .content_wrap .thumb li .active { border: 4.5px solid #e02b6c; }
+  .content_wrap .thumb li .active { border: 4.5px solid #33aa22; }
   .content_wrap .thumb li .active img { margin: -2px 0; opacity: .8; }
   .content_wrap .btn { margin: 4.8%  0 0; }
   .content_wrap .btn a { padding: 3% 0; border-radius: 4px; font-size: calc(50vw/12); }
