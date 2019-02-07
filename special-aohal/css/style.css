@@ -64,6 +64,12 @@ header .header_heading { max-width: 321px; padding: 0; margin: 0 auto; }
 .footer_area .f_wrap { max-width: 680px; margin: 0 auto; }
 .footer_area .f_wrap .f_btn { width: 100%; }
 .footer_area .f_wrap .f_btn a { display: block; margin: 0 0 38px 0; text-align: right; font-size: 27px; font-weight: 400; letter-spacing: 1.5px; text-align: right; color: #33aa22; }
+.footer_area .link-reality { max-width: 660px; margin: 0 auto 68px auto; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.footer_area .link-reality a { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; color: #FFF; background-color: #e02b6c; border-radius: 8px; max-width: 660px; padding-right: 21px; }
+.footer_area .link-reality a dl { padding: 30px 0 30px 22px; }
+.footer_area .link-reality a dl dt { font-size: 30px; font-weight: 600; line-height: 1.4; }
+.footer_area .link-reality a dl dd { font-size: 21px; line-height: 1.4; }
+.footer_area .link-reality a img { max-width: 20px; }
 .footer_area ul { margin-bottom: 35px; }
 .footer_area ul li { display: inline-block; color: #000; }
 .footer_area ul li a { display: inline-block; font-size: 17px; color: #000 !important; line-height: 1.3; }
@@ -117,6 +123,12 @@ header .header_heading { max-width: 321px; padding: 0; margin: 0 auto; }
   .footer_area .f_wrap { padding: 0 5%; }
   .footer_area .f_wrap .f_btn { width: 100%; margin-bottom: 5%; }
   .footer_area .f_wrap .f_btn a { margin: 0 0 0; font-size: calc(45vw/12); }
+  .footer_area .link-reality { margin: 0 auto 9% auto; }
+  .footer_area .link-reality a { border-radius: 4px; padding-right: 3%; }
+  .footer_area .link-reality a dl { padding: 4.5% 0 4.5% 3%; }
+  .footer_area .link-reality a dl dt { font-size: calc(50vw/12); line-height: 1.4; }
+  .footer_area .link-reality a dl dd { font-size: calc(35vw/12); line-height: 1.4; }
+  .footer_area .link-reality a img { max-width: 3%; }
   .footer_area ul { font-size: x-small; margin-bottom: 0; }
   .footer_area ul li a { font-size: 2.5vw; line-height: 1.3; }
   .footer_area small { margin: 5% auto 0; font-size: calc(30vw/12); } }
