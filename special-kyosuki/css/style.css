@@ -67,7 +67,7 @@ header .header_heading { max-width: 515px; padding: 0; margin: 0 auto; }
 .footer_area .link-reality { max-width: 660px; margin: 0 auto 68px auto; -webkit-box-sizing: border-box; box-sizing: border-box; }
 .footer_area .link-reality a { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; color: #FFF; background-color: #e02b6c; border-radius: 8px; max-width: 660px; padding-right: 21px; }
 .footer_area .link-reality a dl { padding: 30px 0 30px 22px; }
-.footer_area .link-reality a dl dt { font-size: 30px; font-weight: 600; line-height: 1.4; }
+.footer_area .link-reality a dl dt { font-size: 30px; font-weight: 600; line-height: 1.4; white-space: nowrap; }
 .footer_area .link-reality a dl dd { font-size: 21px; line-height: 1.4; }
 .footer_area .link-reality a img { max-width: 20px; }
 .footer_area ul { margin-bottom: 35px; }
