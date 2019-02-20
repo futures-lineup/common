@@ -327,14 +327,15 @@ main {
 	width: 100%;
 	margin: 0 auto 2% auto;
 	.time-table {
-		width: 93%;
+		width: 96%;
 		.time {
+			width: 10%;
 			font-size: calc(53vw/12);
-			padding-right: 2%;
 			span {
 				font-size: calc(45vw/12);
 			}
 		}
+		ul {width: 90%;}
 		li {
 			margin-bottom: 5%;
 			a {
@@ -376,7 +377,7 @@ main {
 		}
 	}
 	.other-link {
-		width: 93%;
+		width: 96%;
 		margin: 0 auto 8% auto;
 		a {
 			border-radius: 2px;
@@ -422,7 +423,7 @@ main {
 }
 
 footer {
-	width: 93%;
+	width: 96%;
 	padding-bottom: 4%;
 	.copyright {
 		margin-bottom: 4%;
