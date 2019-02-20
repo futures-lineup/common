@@ -100,20 +100,21 @@ main {
 	width: 750px;
 	margin: 0 auto 48px auto;
 	.time-table {
-		width: 705px;
+		width: 750px;
 		margin: 0 auto;
 		display: flex;
 		.time {
+			width: 90px;
 			font-size: 32px;
 			font-weight: 600;
 			text-align: center;
 			line-height: 1;
-			padding-right: 15px;
 			span {
 				font-size: 26px;
 				font-weight: 300;
 			}
 		}
+		ul {width: 660px;}
 		li {
 			margin-bottom: 41px;
 			a {
@@ -131,6 +132,7 @@ main {
 						}
 					}
 					dd {
+						flex-shrink: 50;
 						width: 100%;
 						position: relative;
 						h2 {

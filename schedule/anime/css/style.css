@@ -31,15 +31,16 @@ header .visual-wrap .main-visual p { font-size: 35px; text-align: center; font-w
 .week .active a { color: #FFF; }
 
 main { width: 750px; margin: 0 auto 48px auto; }
-main .time-table { width: 705px; margin: 0 auto; display: -webkit-box; display: -ms-flexbox; display: flex; }
-main .time-table .time { font-size: 32px; font-weight: 600; text-align: center; line-height: 1; padding-right: 15px; }
+main .time-table { width: 750px; margin: 0 auto; display: -webkit-box; display: -ms-flexbox; display: flex; }
+main .time-table .time { width: 90px; font-size: 32px; font-weight: 600; text-align: center; line-height: 1; }
 main .time-table .time span { font-size: 26px; font-weight: 300; }
+main .time-table ul { width: 660px; }
 main .time-table li { margin-bottom: 41px; }
 main .time-table li a { display: block; color: #FFF; }
 main .time-table li a dl { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; }
 main .time-table li a dl dt { width: 270px; margin-right: 24px; }
 main .time-table li a dl dt img { max-width: 270px; min-width: 270px; }
-main .time-table li a dl dd { width: 100%; position: relative; }
+main .time-table li a dl dd { -ms-flex-negative: 50; flex-shrink: 50; width: 100%; position: relative; }
 main .time-table li a dl dd h2 { margin-bottom: 7px; font-size: 28px; font-weight: 300; }
 main .time-table li a dl dd .video { color: #33aa22; font-size: 24px; font-weight: bold; line-height: 1.4; }
 main .time-table li a dl dd .detail-txt { font-size: 26px; line-height: 1.4; }
