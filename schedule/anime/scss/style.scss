@@ -333,6 +333,7 @@ main {
 	margin: 0 auto 2% auto;
 	.time-table {
 		width: 96%;
+		margin: 0 auto 5% auto;
 		.time {
 			width: 10%;
 			font-size: calc(53vw/12);
@@ -378,8 +379,11 @@ main {
 			}
 		}
 		li:last-child {
-			margin-bottom: 8%;
+			margin-bottom: 0;
 		}
+	}
+	.time-table:nth-last-of-type(3) {
+		margin-bottom: 8%;
 	}
 	.other-link {
 		width: 96%;
