@@ -159,10 +159,13 @@ main {
 					top: 0;
 					right: 0;
 					text-align: center;
-					width: 117px;
+					display: inline-block;
+					line-height: 1;
+					display: inline-block;
 					font-size: 20px;
-					padding: 3px 0 3px 0;
-					background-color: #f0173a;
+					padding: 5px;
+					background-color: #FFF;
+					color: #000;
 					border-radius: 4px;
 				}
 			}
@@ -373,9 +376,8 @@ main {
 					}
 				}
 				.tag {
-					width: 34%;
 					font-size: calc(30vw/12);
-					padding: 1% 0 1% 0;
+					padding: 1.5% 2% 1.5% 2%;
 					border-radius: 2px;
 				}
 			}
