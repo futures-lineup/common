@@ -45,7 +45,7 @@ main .time-table li a dl dd { -ms-flex-negative: 50; flex-shrink: 50; width: 100
 main .time-table li a dl dd h2 { margin-bottom: 7px; font-size: 28px; font-weight: 300; }
 main .time-table li a dl dd .video { color: #33aa22; font-size: 24px; font-weight: bold; line-height: 1.4; }
 main .time-table li a dl dd .detail-txt { font-size: 26px; line-height: 1.4; }
-main .time-table li a .tag { position: absolute; top: 0; right: 0; text-align: center; display: inline-block; line-height: 1; display: inline-block; font-size: 20px; padding: 5px; background-color: #FFF; color: #000; border-radius: 4px; }
+main .time-table li a .tag { position: absolute; top: 0; right: 0; text-align: center; display: inline-block; line-height: 1; display: inline-block; font-size: 20px; padding: 5px; color: #FFF; border: solid 1px #FFF; border-radius: 4px; }
 main .time-table li:last-child { margin-bottom: 0; }
 main .time-table:nth-last-of-type(3) { margin-bottom: 64px; }
 main .other-link { width: 705px; margin: 0 auto 64px auto; }
