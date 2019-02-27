@@ -103,15 +103,15 @@ footer p small { font-size: 16px; color: #919191; }
   main .recommend h2 { font-size: calc(60vw/12); border-left: solid 4px #33aa22; padding: 0 0 0 2.5%; margin-bottom: 6%; }
   main .recommend .point01 { margin-bottom: 9%; }
   main .recommend .point01 dt { font-size: calc(48vw/12); margin: 0 0 3% 0; }
-  main .recommend .point01 dt:before { content: "1"; border-radius: 50%; width: 6%; height: 10%; font-size: calc(45vw/12); margin: 0 2% 0 0; }
+  main .recommend .point01 dt:before { content: "1"; border-radius: 50%; width: 5.5vw; height: 5.5vw; font-size: calc(45vw/12); margin: 0 2% 0 0; }
   main .recommend .point01 dd p { font-size: calc(45vw/12); margin: 0 0 4% 0; }
   main .recommend .point02 { margin-bottom: 8%; }
   main .recommend .point02 dt { font-size: calc(48vw/12); margin: 0 0 4% 0; }
-  main .recommend .point02 dt:before { content: "2"; border-radius: 50%; width: 6%; height: 10%; font-size: calc(45vw/12); margin: 0 2% 0 0; }
+  main .recommend .point02 dt:before { content: "2"; border-radius: 50%; width: 5.5vw; height: 5.5vw; font-size: calc(45vw/12); margin: 0 2% 0 0; }
   main .recommend .point02 dd div { max-width: 42%; min-width: 42%; margin-right: 3%; }
   main .recommend .point02 dd p { font-size: calc(45vw/12); }
   main .recommend .point03 dt { font-size: calc(48vw/12); margin: 0 0 4% 0; }
-  main .recommend .point03 dt:before { content: "3"; border-radius: 50%; width: 6%; height: 10%; font-size: calc(45vw/12); margin: 0 2% 0 0; }
+  main .recommend .point03 dt:before { content: "3"; border-radius: 50%; width: 5.5vw; height: 5.5vw; font-size: calc(45vw/12); margin: 0 2% 0 0; }
   main .recommend .point03 dd div { max-width: 42%; min-width: 42%; margin-right: 3%; }
   main .recommend .point03 dd p { font-size: calc(45vw/12); }
   main .story { width: 93%; margin: 0 auto 13% auto; }
