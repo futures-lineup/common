@@ -251,6 +251,9 @@ main {
 		p {
 			font-size: 28px;
 			color: #979797;
+			small {
+				font-size: 16px;
+			}
 		}
 		p:nth-last-of-type(1) {
 			margin-bottom: 90px;
@@ -572,6 +575,9 @@ main {
 		}
 		p {
 			font-size: calc(45vw/12);
+			small {
+				font-size: calc(35vw/12);
+			}
 		}
 		p:nth-last-of-type(1) {
 			margin-bottom: 12%;
