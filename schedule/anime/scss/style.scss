@@ -464,5 +464,16 @@ footer {
 		font-size: calc(35vw/12);
 	}
 }
+}
 
+
+
+
+
+@media screen and (max-width: 480px) {
+footer {
+	.copyright {
+		line-height: 1.1;
+	}
+}
 }
