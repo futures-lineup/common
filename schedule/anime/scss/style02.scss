@@ -40,7 +40,6 @@ img {
 }
 
 
-
 header {
 	width: 100%;
 	margin: 0 auto 27px auto;
@@ -468,8 +467,13 @@ footer {
 }
 
 
+.m0 {
+	margin-bottom: 0;
+}
 
-
+.m41 {
+	margin-bottom: 41px;
+}
 
 @media screen and (max-width: 480px) {
 footer {
