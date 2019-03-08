@@ -77,10 +77,10 @@ footer p small { font-size: 16px; color: #919191; }
   main .genre-wrap ul { padding-top: 5%; }
   main .genre-wrap ul li { margin-bottom: 5%; }
   main .genre-wrap ul li a { padding-bottom: 5%; border-bottom: solid 1px #606060; }
-  main .genre-wrap ul li a dl { margin-bottom: 2.5%; }
+  main .genre-wrap ul li a dl { margin-bottom: 2.3%; }
   main .genre-wrap ul li a dl dt { max-width: 53.3%; min-width: 53.3%; margin-right: 2.5%; }
   main .genre-wrap ul li a dl dd h3 { font-size: calc(47vw/12); }
-  main .genre-wrap ul li a .txt-detail { font-size: calc(37vw/12); margin-bottom: 2.5%; }
+  main .genre-wrap ul li a .txt-detail { font-size: calc(37vw/12); margin-bottom: 2.3%; }
   main .genre-wrap ul li a .link { font-size: calc(49vw/12); border-radius: 0.7vw; padding: 1.8% 0 1.8% 0; letter-spacing: 0.8vw; }
   main .genre-wrap ul li:last-child { margin-bottom: 0px; }
   main .video-promos { width: 100%; padding: 5% 9% 6% 9%; margin: 0 auto 0 auto; }
@@ -90,11 +90,11 @@ footer p small { font-size: 16px; color: #919191; }
   main .video-promos p a { font-size: calc(49vw/12); padding: 2% 0 2% 0; border: solid 1px #33aa22; border-radius: 4px; }
   footer { width: 93%; padding-bottom: 4%; }
   footer .other-link { width: 93%; margin: 0 auto 5% auto; }
-  footer .other-link a { border-radius: 2px; }
-  footer .other-link a dl { padding: 3.8% 0 3.8% 6%; }
+  footer .other-link a { border-radius: 1vw; }
+  footer .other-link a dl { padding: 3.8% 0 3.8% 3.5%; }
   footer .other-link a dl img { max-width: 5%; }
   footer .other-link a dl dt { font-size: calc(30vw/12); margin-bottom: 2.5%; }
-  footer .other-link a dl dd { font-size: calc(45vw/12); }
+  footer .other-link a dl dd { font-size: calc(40vw/12); }
   footer .other-link a img { max-width: 6.5%; padding-right: 4%; }
   footer .copyright { margin-bottom: 4%; line-height: 1.3; }
   footer .copyright li small { font-size: calc(30vw/12); }

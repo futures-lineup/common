@@ -309,7 +309,7 @@ main {
 					padding-bottom: 5%;
 					border-bottom: solid 1px #606060;
 					dl {
-						margin-bottom: 2.5%;
+						margin-bottom: 2.3%;
 						dt {
 							max-width: 53.3%;
 							min-width: 53.3%;
@@ -323,7 +323,7 @@ main {
 					}
 					.txt-detail {
 						font-size: calc(37vw/12);
-						margin-bottom: 2.5%;
+						margin-bottom: 2.3%;
 					}
 					.link {
 						font-size: calc(49vw/12);
@@ -369,16 +369,16 @@ footer {
 		width: 93%;
 		margin: 0 auto 5% auto;
 		a {
-			border-radius: 2px;
+			border-radius: 1vw;
 			dl {
-				padding: 3.8% 0 3.8% 6%;
+				padding: 3.8% 0 3.8% 3.5%;
 				img { max-width: 5%; }
 				dt {
 					font-size: calc(30vw/12);
 					margin-bottom: 2.5%;
 				}
 				dd {
-					font-size: calc(45vw/12);
+					font-size: calc(40vw/12);
 				}
 			}
 			img {
