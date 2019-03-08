@@ -117,8 +117,8 @@ footer p small { font-size: 16px; color: #919191; }
   footer .links ul { font-size: x-small; margin-bottom: 0%; }
   footer .links ul li a { font-size: calc(35vw/12); }
   footer p small { font-size: calc(35vw/12); } }
-.m0 { margin-bottom: 0; }
+.m0 { margin-bottom: 0 !important; }
 
-.m41 { margin-bottom: 41px; }
+.m41 { margin-bottom: 41px !important; }
 
 @media screen and (max-width: 480px) { footer .copyright { line-height: 1; } }
