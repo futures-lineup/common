@@ -30,7 +30,7 @@ main .genre-wrap { width: 680px; margin: 0 auto 60px auto; }
 main .genre-wrap h2 { font-size: 32px; font-weight: 600; border-left: solid 6px #33aa22; padding-left: 20px; margin-bottom: 30px; }
 main .genre-wrap ul { padding-top: 30px; border-top: solid 1px #606060; }
 main .genre-wrap ul li { margin-bottom: 30px; }
-main .genre-wrap ul li a { display: block; padding-bottom: 30px; border-bottom: solid 1px #606060; }
+main .genre-wrap ul li a { display: block; padding-bottom: 30px; border-bottom: solid 1px #606060; color: #FFF; }
 main .genre-wrap ul li a dl { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; margin-bottom: 20px; }
 main .genre-wrap ul li a dl dt { max-width: 368px; min-width: 368px; margin-right: 15px; }
 main .genre-wrap ul li a dl dt img { display: block; }
