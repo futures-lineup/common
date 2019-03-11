@@ -84,7 +84,7 @@ footer p small { font-size: 16px; color: #919191; }
   .week { width: 100%; margin: 0 auto 0 auto; }
   .week li a { font-size: calc(65vw/12); }
   .week .active { border-bottom: solid 2px #33aa22; }
-  main { width: 100%; margin: 0 auto 2% auto; padding-top: 2%; }
+  main { width: 100%; margin: 0 auto 2% auto; padding-top: 4%; }
   main .time-table { width: 96%; margin: 0 auto 5% auto; }
   main .time-table .time { width: 10%; font-size: calc(53vw/12); }
   main .time-table .time span { font-size: calc(45vw/12); }
