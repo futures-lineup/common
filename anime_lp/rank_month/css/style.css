@@ -19,9 +19,12 @@ img { max-width: 100%; height: auto; }
 
 /* ここから */
 header { width: 100%; margin-bottom: 31px; }
-header p { display: block; padding: 12px 0 11px 17px; width: 152px; }
-header div { width: 100%; background: url(https://bit.ly/2BxBcYU) top center no-repeat; background-size: cover; padding: 45px 0 44px 0; }
-header div img { display: block; width: 520px; margin: 0 auto; }
+header .logo { display: block; padding: 12px 0 11px 17px; width: 152px; }
+header .visual-wrap { width: 100%; background: url(https://bit.ly/2BxBcYU) top center no-repeat; background-size: cover; padding: 45px 0 44px 0; }
+header .visual-wrap .main-visual { width: 451px; margin: 0 auto; }
+header .visual-wrap .main-visual h1 { margin-bottom: 15px; }
+header .visual-wrap .main-visual h1 img { display: block; }
+header .visual-wrap .main-visual p { font-size: 38px; text-align: center; font-weight: 600; letter-spacing: 5px; }
 
 main { width: 750px; margin: 0 auto 65px auto; }
 main section { margin-bottom: 65px; }
@@ -67,10 +70,12 @@ footer nav ul li:last-child:after { content: ''; }
 
 @media screen and (max-width: 768px) { body * { line-height: 145%; }
   header { margin-bottom: 4%; }
-  header p { padding: 2% 0 2% 2%; width: 21%; }
-  header p img { display: block; }
-  header div { padding: 5.2% 0 5.2% 0; }
-  header div img { width: 75%; }
+  header .logo { padding: 2% 0 2% 2%; width: 21%; }
+  header .logo img { display: block; }
+  header .visual-wrap { background: url(https://goo.gl/zfGwFA) center top no-repeat; background-size: cover; padding: 5.5% 0 5.5% 0; }
+  header .visual-wrap .main-visual { width: 62%; }
+  header .visual-wrap .main-visual h1 { margin-bottom: 2%; }
+  header .visual-wrap .main-visual p { font-size: calc(61vw/12); letter-spacing: 0.5vw; }
   main { width: 100%; margin-bottom: 7%; }
   main h1 { width: 93%; margin: 0 auto; }
   main section { width: 93%; margin: 0 auto 7% auto; }
