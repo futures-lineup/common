@@ -19,8 +19,8 @@ header { width: 100%; margin: 0 auto 27px auto; }
 header .logo { padding: 13px 0 10px 15px; }
 header .logo img { max-width: 152px; }
 header .visual-wrap { width: 100%; background: url(https://bit.ly/2BP9PKj) center top no-repeat; background-size: cover; }
-header .visual-wrap .main-visual { width: 539px; margin: 0 auto; padding: 25px 0 13px 0; }
-header .visual-wrap .main-visual h1 { margin-bottom: 5px; }
+header .visual-wrap .main-visual { width: 575px; margin: 0 auto; padding: 31px 0 31px 0; }
+header .visual-wrap .main-visual h1 { margin-bottom: 15px; }
 header .visual-wrap .main-visual h1 img { display: block; }
 header .visual-wrap .main-visual p { font-size: 35px; text-align: center; font-weight: 600; }
 
