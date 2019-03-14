@@ -507,19 +507,19 @@ img { width: 100%; }
 .past_item_list:nth-child(4) .past_img:before { content: "#4"; }
 .past_item_list:nth-child(5) .past_img:before { content: "#5"; }
 .past_item_list:nth-child(6) .past_img:before { content: "#6"; }
-.past_item_list:nth-child(7) .past_img:before { content: "#7"; }
-.past_item_list:nth-child(8) .past_img:before { content: "#8"; }
-.past_item_list:nth-child(9) .past_img:before { content: "#8"; }
-.past_item_list:nth-child(10) .past_img:before { content: "#9"; padding: 13px 10px 0 0; letter-spacing: -7px; }
-.past_item_list:nth-child(11) .past_img:before { content: "#9"; padding: 13px 10px 0 0; letter-spacing: -7px; }
-.past_item_list:nth-child(12) .past_img:before { content: "#10"; padding: 13px 10px 0 0; letter-spacing: -7px; }
-.past_item_list:nth-child(13) .past_img:before { content: "#10"; padding: 13px 10px 0 0; letter-spacing: -7px; }
-.past_item_list:nth-child(14) .past_img:before { content: "#11"; padding: 13px 10px 0 0; letter-spacing: -7px; }
-.past_item_list:nth-child(15) .past_img:before { content: "#11"; padding: 13px 10px 0 0; letter-spacing: -7px; }
-.past_item_list:nth-child(16) .past_img:before { content: "#12"; padding: 13px 10px 0 0; letter-spacing: -7px; }
-.past_item_list:nth-child(17) .past_img:before { content: "#12"; padding: 13px 10px 0 0; letter-spacing: -7px; }
-.past_item_list:nth-child(18) .past_img:before { content: "#13"; padding: 13px 10px 0 0; letter-spacing: -7px; }
-.past_item_list:nth-child(19) .past_img:before { content: "#13"; padding: 13px 10px 0 0; letter-spacing: -7px; }
+.past_item_list:nth-child(7) .past_img:before { content: "#6"; }
+.past_item_list:nth-child(8) .past_img:before { content: "#7"; }
+.past_item_list:nth-child(9) .past_img:before { content: "#7"; }
+.past_item_list:nth-child(10) .past_img:before { content: "#8"; padding: 13px 10px 0 0; letter-spacing: -7px; }
+.past_item_list:nth-child(11) .past_img:before { content: "#8"; padding: 13px 10px 0 0; letter-spacing: -7px; }
+.past_item_list:nth-child(12) .past_img:before { content: "#9"; padding: 13px 10px 0 0; letter-spacing: -7px; }
+.past_item_list:nth-child(13) .past_img:before { content: "#9"; padding: 13px 10px 0 0; letter-spacing: -7px; }
+.past_item_list:nth-child(14) .past_img:before { content: "#10"; padding: 13px 10px 0 0; letter-spacing: -7px; }
+.past_item_list:nth-child(15) .past_img:before { content: "#10"; padding: 13px 10px 0 0; letter-spacing: -7px; }
+.past_item_list:nth-child(16) .past_img:before { content: "#11"; padding: 13px 10px 0 0; letter-spacing: -7px; }
+.past_item_list:nth-child(17) .past_img:before { content: "#11"; padding: 13px 10px 0 0; letter-spacing: -7px; }
+.past_item_list:nth-child(18) .past_img:before { content: "#12"; padding: 13px 10px 0 0; letter-spacing: -7px; }
+.past_item_list:nth-child(19) .past_img:before { content: "#12"; padding: 13px 10px 0 0; letter-spacing: -7px; }
 .past_item_list .past_img { position: relative; }
 .past_item_list .past_img:before { content: "#1"; position: absolute; bottom: -39px; left: 0; background: #0096ff; padding: 13px 6px 0 0; font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; font-style: italic; font-size: 40px; letter-spacing: -1.5px; color: #fff; }
 .past_item_list:first-child { margin-left: 0; }
