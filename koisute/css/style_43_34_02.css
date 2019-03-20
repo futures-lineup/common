@@ -520,6 +520,8 @@ img { width: 100%; }
 .past_item_list:nth-child(17) .past_img:before { content: "#11"; padding: 13px 10px 0 0; letter-spacing: -7px; }
 .past_item_list:nth-child(18) .past_img:before { content: "#12"; padding: 13px 10px 0 0; letter-spacing: -7px; }
 .past_item_list:nth-child(19) .past_img:before { content: "#12"; padding: 13px 10px 0 0; letter-spacing: -7px; }
+.past_item_list:nth-child(20) .past_img:before { content: "#13"; padding: 13px 10px 0 0; letter-spacing: -7px; }
+.past_item_list:nth-child(21) .past_img:before { content: "#13"; padding: 13px 10px 0 0; letter-spacing: -7px; }
 .past_item_list .past_img { position: relative; }
 .past_item_list .past_img:before { content: "#1"; position: absolute; bottom: -39px; left: 0; background: #0096ff; padding: 13px 6px 0 0; font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; font-style: italic; font-size: 40px; letter-spacing: -1.5px; color: #fff; }
 .past_item_list:first-child { margin-left: 0; }
@@ -577,6 +579,8 @@ img { width: 100%; }
   .past .past_item_list:nth-child(17) .past_img:before { content: "#11"; padding: 13px 4px 0 0; letter-spacing: -3px; }
   .past .past_item_list:nth-child(18) .past_img:before { content: "#12"; padding: 13px 4px 0 0; letter-spacing: -3px; }
   .past .past_item_list:nth-child(19) .past_img:before { content: "#12"; padding: 13px 4px 0 0; letter-spacing: -3px; }
+  .past .past_item_list:nth-child(20) .past_img:before { content: "#13"; padding: 13px 4px 0 0; letter-spacing: -3px; }
+  .past .past_item_list:nth-child(21) .past_img:before { content: "#13"; padding: 13px 4px 0 0; letter-spacing: -3px; }
   .past .past_item_list .past_img { position: relative; }
   .past .past_item_list .past_img:before { content: "#1"; position: absolute; left: 0; bottom: -16px; background: #0096ff; font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; font-style: italic; padding: 7px 4px 0 1px; font-size: calc(45vw/12); letter-spacing: -1px; color: #fff; }
   .past .past_item_list .past_img img { width: 100%; }
